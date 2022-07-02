@@ -14,8 +14,8 @@ The best shell ever
 
 <br>
 <h3>About Team Ex</h3>
-![received_1488085584976082](https://user-images.githubusercontent.com/97798085/176988158-1cb882ff-f475-4444-8bda-4cee1bee73a3.jpeg)
-
+<img src="https://user-images.githubusercontent.com/97798085/176988158-1cb882ff-f475-4444-8bda-4cee1bee73a3.jpeg">
+ 
 
 
 
