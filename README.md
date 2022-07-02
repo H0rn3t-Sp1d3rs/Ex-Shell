@@ -10,8 +10,8 @@ This shell made by Team ex
 <h2>Download</h2>
 
 📥 <a href="https://github.com/H0rn3t-Sp1d3rs/Ex-Shell/blob/main/ex.zip?raw=true">Download</a> Ex-Shell
-<br><b>shell Password: Team@Ex</b>
-![Screenshot_20220702-113159](https://user-images.githubusercontent.com/97798085/176988063-49a4fbcf-064b-49b1-a885-f33771fd5504.png)
+<br><b><br>shell Password: Team@Ex</b>
+<br>![Screenshot_20220702-113159](https://user-images.githubusercontent.com/97798085/176988063-49a4fbcf-064b-49b1-a885-f33771fd5504.png)
 
 <br>
 <h3>About Team Ex</h3>
